@@ -1,6 +1,6 @@
 {
-  "message": "feat: DEV-1621:  Add usage of new method to create annotation",
-  "commit": "8975918038340887dbe42096c17e2df06aab2152",
-  "branch": "feat/DEV-1621/interactive_mode",
-  "date": "2022-02-15T19:29:50Z"
+  "message": "Fix tasks selection (#44)",
+  "commit": "97e33ac0a9b0ea09398b00d7916671ca76cf2a71",
+  "branch": "master",
+  "date": "2022-04-13T13:55:17Z"
 }
